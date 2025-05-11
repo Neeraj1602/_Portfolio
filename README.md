@@ -7,8 +7,8 @@ This responsive, modern, and animated website is built to showcase my skills, pr
 
 ## 🖼️ Live Preview
 
-🌐 [Live Site](https://your-netlify-site.netlify.app)  
-📁 [Source Code](https://github.com/your-username/your-repo)
+🌐 [Live Site](https://neeraj-portfolio-016feb.netlify.app) 
+📁 [Source Code](https://github.com/Neeraj1602/_Portfolio)
 
 ---
 
