@@ -20,7 +20,7 @@ This responsive, modern, and animated website is built to showcase my skills, pr
 - ⏳ Typing Text Animation using Typed.js
 - 🧠 Skills Section with Progress Bars
 - 🧰 Services Section
-- 📂 Projects with Preview Buttons
+- 📂 Interactive project showcase section
 - 📞 Contact Form
 - 📄 **Download Resume** button
 - ⚙️ Smooth transitions & scroll animations
